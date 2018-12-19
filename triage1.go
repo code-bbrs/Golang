@@ -78,7 +78,7 @@ func tri(min int, max int) bool {
 // Computing time :  327.396µs
 //======================================================================#
 // To run this test execute in terminal:
-// export GOPATH=/home/bbrs/Desktop/wildBeries/Golang/
+// export GOPATH=$HOME/work/
 // go install triage1
 // $GOPATH/bin/triage1
 //======================================================================#
